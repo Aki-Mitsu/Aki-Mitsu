@@ -18,6 +18,3 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aki-Mitsu&theme=dark&background=0D1117&border=30363D&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aki-Mitsu&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=F59E0B&text_color=FFFFFF&card_width=350" alt="Most Used Languages" />
 </p>
-
-```text
-~ *+**.+*+ —-❖ • ❖— *+**.+*+ —-❖ • ❖— *+**.+*+ —-❖ • ❖— *+**.+*+*+* *.+*+ —-❖ • ❖— *+**.+*+ —-❖ • ❖— *+**.+*+ —-❖ • ❖— ~
