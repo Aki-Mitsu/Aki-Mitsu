@@ -1,4 +1,4 @@
-# hi, i'm mickhael
+# Hi, i'm Mickhael Casanova
 
 *CS student. gaslighting myself into enjoying programming.*
 
