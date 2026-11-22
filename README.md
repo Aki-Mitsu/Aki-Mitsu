@@ -1,6 +1,6 @@
 # Hi, i'm Mickhael Casanova
 
-*Learning to love coding against my will because I chose this course.*
+*Learning to love coding against my will because I chose this course. And currently gaslighting myself into enjoying Programming.
 
 ![C++](https://img.shields.io/badge/%20%20%20c++%20%20%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/%20%20%20c%23%20%20%20-%23239120.svg?style=flat&logo=csharp&logoColor=white)
