@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aki-Mitsu/Aki-Mitsu/output/snake-v2.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aki-Mitsu/Aki-Mitsu/output/snake-v3.svg" alt="snake animation" width="100%" />
 </p>
 
 <p align="center">
